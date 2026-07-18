@@ -1,12 +1,5 @@
 <p align="center">
-  <img src="./WhatsApp Image 2026-07-18 at 10.18.21 PM.jpeg" width="100%">
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+App+Developer;Flutter+Developer;Frontend+Web+Developer;Graphic+Designer;Power+BI+Enthusiast;Always+Learning+New+Things+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyam-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="banner.jpeg" alt="Satyam Banner" width="100%">
 </p>
 
 ## 🚀 About Me
