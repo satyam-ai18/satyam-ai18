@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Satyam;AI+App+Developer;Flutter+Developer;Frontend+Web+Developer;Graphic+Designer;Power+BI+Enthusiast;Always+Learning+🚀"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=satyam-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
 # Hi 👋 I'm Satyam
 
 ## 🚀 About Me
@@ -51,3 +59,20 @@
 \+9-
 
 ⭐ *"Learning every day. Building for tomorrow."*
+
+## 🛠 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=satyam-ai18&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=satyam-ai18&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-ai18&layout=compact&theme=tokyonight)
