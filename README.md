@@ -14,8 +14,6 @@ AI App Developer • Flutter Developer • Frontend Web Developer • Graphic De
 <img src="https://komarev.com/ghpvc/?username=satyam-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-# Hi 👋 I'm Satyam
-
 ## 🚀 About Me
 
 💻 Passionate about learning, building innovative applications, and turning ideas into reality through code.
