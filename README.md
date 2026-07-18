@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="banner.jpeg" alt="Satyam Banner" width="100%">
-</p>
-
+Hello I'm Satyam
 ## 🚀 About Me
 
 💻 Passionate about learning, building innovative applications, and turning ideas into reality through code.
