@@ -1,9 +1,17 @@
+<h1 align="center">
+Hi 👋, I'm Satyam
+</h1>
+
+<h3 align="center">
+AI App Developer • Flutter Developer • Frontend Web Developer • Graphic Designer • Power BI Enthusiast
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Satyam;AI+App+Developer;Flutter+Developer;Frontend+Web+Developer;Graphic+Designer;Power+BI+Enthusiast;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+App+Developer;Flutter+Developer;Frontend+Web+Developer;Graphic+Designer;Power+BI+Enthusiast;Always+Learning+New+Things+🚀" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=satyam-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=satyam-ai18&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 # Hi 👋 I'm Satyam
@@ -55,8 +63,6 @@
 - Contribute to Open Source
 - Become a Full Stack AI Developer
 
-
-\+9-
 
 ⭐ *"Learning every day. Building for tomorrow."*
 
