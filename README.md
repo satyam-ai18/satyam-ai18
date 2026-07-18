@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋 I'm Satyam
 
-<!--
-**satyam-ai18/satyam-ai18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+💻 Passionate about learning, building innovative applications, and turning ideas into reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 What I Do
+- 📱 AI-Powered App Development
+- 🌐 Frontend Web Development
+- 🎨 Graphic Designing
+- 📊 Power BI Dashboard Development
+- 🤖 AI Automation & Productivity Tools
+- ☕ Java Programming
+- 💙 Flutter Development
+
+### 🌱 Currently Learning
+- Flutter
+- Java
+- Power BI
+- Git & GitHub
+- Firebase
+- UI/UX Design
+- Artificial Intelligence
+
+### 🚀 Current Projects
+- 🤖 Antigravity AI
+- 📄 AI OCR & OMR Scanner
+- 🎓 AI Study Assistant
+
+### 🛠️ Tech Stack
+- Flutter
+- Dart
+- Java
+- HTML
+- CSS
+- JavaScript
+- Power BI
+- Git & GitHub
+- Firebase
+- Figma
+- Canva
+
+### 🎯 Goals
+- Build AI-powered applications
+- Create modern websites & mobile apps
+- Design beautiful user interfaces
+- Contribute to Open Source
+- Become a Full Stack AI Developer
+
+
+\+9-
+
+⭐ *"Learning every day. Building for tomorrow."*
