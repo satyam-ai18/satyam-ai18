@@ -63,10 +63,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
-![](https://github-readme-stats.vercel.app/api?username=satyam-ai18&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=satyam-ai18&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-ai18&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=satyam-ai18&theme=tokyonight&hide_border=true" />
+</p>
