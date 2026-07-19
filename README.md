@@ -1,4 +1,9 @@
-Hello I'm Satyam
+<p align="center">
+  <img src="https://raw.githubusercontent.com/satyam-ai18/satyam-ai18/main/banner.png" width="100%">
+</p>
+
+# Hello I'm Satyam 👋
+
 ## 🚀 About Me
 
 💻 Passionate about learning, building innovative applications, and turning ideas into reality through code.
