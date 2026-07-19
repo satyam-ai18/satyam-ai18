@@ -74,3 +74,14 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-ai18&theme=tokyo-night&hide_border=true" />
 </p>
+
+## 🚀 Featured Projects
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| 📱 Image Compressor | Compress JPG, PNG, WEBP images | ✅ |
+| 📄 PDF Compressor | Compress PDF files with high quality | ✅ |
+| 📷 Document Scanner | Scan documents and save as PDF | 🚧 |
+| 🔍 OCR Scanner | Extract text from images | 🚧 |
+| 🖼️ Image Converter | Convert JPG, PNG, WEBP, HEIC | 🚧 |
+| 📑 PDF Tools | Merge, Split, Protect & Convert PDFs | 🚧 |
