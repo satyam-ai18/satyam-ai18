@@ -116,6 +116,12 @@
 
 </p>
 
+## 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyam-ai18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📈 Contribution Graph
 
 [![Satyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=satyam-ai18&theme=github-compact)](https://github.com/satyam-ai18)
