@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/satyam-ai18/satyam-ai18/main/banner.png" width="100%">
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Satyam;AI+App+Developer;Flutter+Developer;Frontend+Web+Developer;Graphic+Designer;Power+BI+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
+
 # Hello I'm Satyam 👋
 
 ## 🚀 About Me
