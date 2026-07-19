@@ -69,8 +69,8 @@
   <img src="https://streak-stats.demolab.com?user=satyam-ai18&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyam-ai18&theme=algolia">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyam-ai18&theme=tokyo-night&hide_border=true" />
 </p>
